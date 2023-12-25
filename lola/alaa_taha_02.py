@@ -14,7 +14,7 @@ y=data.iloc[:,1]
  
 print(x)
 print(y)
-
+#here is my edition
 plt.title('تطور الناتج المحلي الاجمالي على مدى السنوات')
 plt.xlabel('السنه')
 plt.ylabel('الناتج المحلي الاجمالي(بالمليارات من الدولار(')
